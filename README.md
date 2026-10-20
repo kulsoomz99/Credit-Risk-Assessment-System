@@ -131,8 +131,6 @@ SHAP waterfall plots explain individual predictions by showing how each feature 
 
 These explanations help analysts understand model behavior and investigate individual cases.
 
-*Note: Feature importance indicates predictive association, not causation.*
-
 ## Error Analysis
 
 The model's prediction errors were analyzed to understand their potential business impact.
